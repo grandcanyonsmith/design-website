@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.designdok.com	TRUE	/	FALSE	1999999999	__cfduid	d1f1f6795df6e1bae8da78ab7166568591581812552
+www.designdok.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
